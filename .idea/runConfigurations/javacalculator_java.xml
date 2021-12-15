@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="javacalculator.java" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="javacalcultor" />
+    <module name="calculator" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/javacalculator.java" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
